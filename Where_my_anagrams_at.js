@@ -13,4 +13,4 @@ function anagrams(word, words) {
   return arr;
 }
 console.log(anagrams("racer", ["crazer", "carer", "racar", "caers", "racer"]));
-// --> [ 'aabb', 'bbaa' ]
+// --> ['carer', 'racer']
